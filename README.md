@@ -51,7 +51,7 @@ This slider is used to adjust the strength of the 1st order low-pass filter impl
 This slider is used to adjust the controller sample time. In real systems, the controller sends commands at discrete time intervals. This slider can be used to observe the effects of the sample time on the system performance.
 
 ## 3. Additional documents
-I have also included an _abridged_ version of the project report in the documents folder that explains PID controllers, DC motor modelling, and some of the design choices in more detail. You can find the document [here](docs/project_report_abridged.pdf).
+I have also included an _abridged_ version of the project report in the documents folder that explains PID controllers, DC motor modelling, and some of the design choices in more detail. You can find the document [here](docs/project-report-abridged.pdf).
 
 ## 4. Installation
 
